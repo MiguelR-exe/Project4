@@ -110,6 +110,6 @@ Este proyecto fue desarrollado con fines educativos para:
 
 ---
 
-## 📌 Conclusión
+##  Conclusión
 
 El proyecto demuestra cómo diferentes enfoques de Machine Learning pueden resolver el mismo problema con distintos niveles de complejidad y rendimiento, permitiendo analizar sus ventajas y limitaciones utilizando datos reales y visualización interactiva.
