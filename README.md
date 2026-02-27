@@ -92,8 +92,15 @@ test/
 
 ```bash
 pip install numpy scikit-learn manim joblib
-manim -pqh archivo.py HARVideo
 ```
+### 3 Ejecutar Proyecto
+
+```bash
+# pql(low quality) - pqh(high quality) 
+manim -pql archive.py HARVideo 
+manim -pqh archive.py HARVideo
+```
+
 ##  Objetivo Académico
 
 Este proyecto fue desarrollado con fines educativos para:
