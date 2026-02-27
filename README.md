@@ -1,13 +1,13 @@
-# 🎥 Reconocimiento de Actividades Humanas (UCI-HAR) con Machine Learning
+#  Reconocimiento de Actividades Humanas (UCI-HAR) con Machine Learning
 
-## 👥 Integrantes
+##  Integrantes
 - Meza Leon, Ricardo Manuel  
 - Ramos Bonilla, Miguel Angel 
 - Cabezas Ramirez, Dylan Andres
 
 ---
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto implementa y visualiza distintos modelos de **Machine Learning** aplicados al dataset **UCI HAR (Human Activity Recognition)**.
 
@@ -17,7 +17,7 @@ Además del entrenamiento de modelos, el proyecto genera una **visualización an
 
 ---
 
-## 🧠 Dataset Utilizado
+##  Dataset Utilizado
 
 Se utiliza el **UCI HAR Dataset**, el cual contiene:
 
@@ -36,7 +36,7 @@ Cada muestra es un vector de 561 características extraídas de señales de acel
 
 ---
 
-## ⚙️ Modelos Implementados
+##  Modelos Implementados
 
 Se entrenaron y compararon los siguientes modelos:
 
@@ -56,7 +56,7 @@ Todos los modelos fueron evaluados con:
 
 ---
 
-## 🔄 Pipeline del Proyecto
+##  Pipeline del Proyecto
 
 1. Carga del dataset
 2. Normalización de datos con `StandardScaler`
@@ -67,7 +67,7 @@ Todos los modelos fueron evaluados con:
 
 ---
 
-## 📊 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - Python
 - NumPy
@@ -77,9 +77,9 @@ Todos los modelos fueron evaluados con:
 
 ---
 
-## ▶️ Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
-### 1️⃣ Descargar el Dataset
+### 1️ Descargar el Dataset
 
 Descargar el **UCI HAR Dataset** y colocarlo en la raíz del proyecto con la siguiente estructura:
 UCI HAR Dataset/
@@ -88,13 +88,13 @@ test/
 
 ---
 
-### 2️⃣ Instalar Dependencias
+### 2️ Instalar Dependencias
 
 ```bash
 pip install numpy scikit-learn manim joblib
 manim -pqh archivo.py HARVideo
 ```
-## 🎯 Objetivo Académico
+##  Objetivo Académico
 
 Este proyecto fue desarrollado con fines educativos para:
 
